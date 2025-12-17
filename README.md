@@ -1,4 +1,4 @@
-# Olá! Eu sou a Suellen, seja bem-vindo(a) ao meu perfil! 🌸✨
+# Olá! Sou a Suellen, seja bem-vindo(a) ao meu perfil! 🌸✨
 
 <img align="right" src="https://i.pinimg.com/originals/38/5e/9d/385e9d704bc7326059b36a87414415bc.gif" width="220">
 
@@ -7,13 +7,12 @@
 🌸 Estudante de Sistemas para Internet no IFB <br>
 💻 Focada em Desenvolvimento Front-end e UX/UI Design <br>
 🩰 **Amo dançar** e trazer essa leveza e criatividade para os meus códigos <br>
-✨ Apaixonada por criar interfaces bonitas e funcionais <br>
+✨ Amo criar interfaces bonitas e funcionais <br>
+✝️ **Apaixonada por Jesus**❤️ <br>
 
-<br>
 <br>
 
 ### 💬 Contatos
-
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/suellendutra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
