@@ -2,7 +2,6 @@
 
 Sou a **Suellen**, estudante de **Sistemas para Internet** no IFB e apaixonada pelo mundo do **Front-end**.
 
-- 🌱 **Estudando:** JavaScript, Banco de Dados e UX/UI Design.
 - 🎯 **Objetivo:** Me especializar em Desenvolvimento Front-end.
 - 💖 **O que eu amo:** Criar interfaces, organização e aprender coisas novas.
 ---
