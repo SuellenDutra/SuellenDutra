@@ -6,10 +6,7 @@
 
 🌸 Estudante de Sistemas para Internet no IFB <br>
 💻 Focada em Desenvolvimento Front-end e UX/UI Design <br>
-🩰 **Amo dançar** e trazer essa leveza e criatividade para os meus códigos <br>
 ✨ Amo criar interfaces bonitas e funcionais <br>
-✝️ **Apaixonada por Jesus**<br>
-
 <br>
 
 ### 💬 Contatos
