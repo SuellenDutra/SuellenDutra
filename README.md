@@ -42,9 +42,7 @@
 
 <br><br>
 
-### 🌷 Meus status no GitHub
+### 🌷 Meu status no GitHub
 
-<div align="left">
-  <img height="160" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=SuellenDutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenDutra&layout=compact&theme=dracula" />
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SuellenDutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/SuellenDutra)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenDutra&layout=compact&theme=dracula)](https://github.com/SuellenDutra)
