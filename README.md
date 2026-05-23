@@ -12,7 +12,7 @@
 
 * 🧠 **Sistema de Apoio para TDAH e TOD (TCC):** Desenvolvimento de um sistema web voltado para o apoio ao manejo comportamental de crianças com TDAH e TOD.
 * 🗣️ **Vogais Vivas:** Atuação como Desenvolvedora e Pesquisadora. 
-  * ✉️ *Artigo Aceito para Publicação:* [PROJETO VOGAIS VIVAS] — *Com carta de aceite para [SIMPÓSIO DE INTEGRAÇÃO, INOVAÇÃO E TECNOLOGIA (SIIT)]*
+  * ✉️ *Artigo Aceito para Publicação:* PROJETO VOGAIS VIVAS — *Com carta de aceite para SIMPÓSIO DE INTEGRAÇÃO, INOVAÇÃO E TECNOLOGIA (SIIT)*
 
 ### 💬 Contatos
 <div style="display: flex; align-items: center; gap: 10px;">
